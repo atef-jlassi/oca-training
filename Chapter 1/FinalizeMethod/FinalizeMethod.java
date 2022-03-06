@@ -1,5 +1,5 @@
 import java.util.*;
-class FinalizeMethod {
+public class FinalizeMethod {
     public static void main(String [] args) {
         List<Box> list = new ArrayList<>();
         // for(int i = 0; i <6 ; i++) {
