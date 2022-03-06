@@ -34,6 +34,9 @@ public class StringMethods {
         System.out.println(replaceString.replace("ab", "YYY"));
         System.out.println(replaceString);
 
+        // trim()
+        System.out.println("####trim()#####");
+
 
 
     }
